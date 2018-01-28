@@ -1,0 +1,2 @@
+        public const Int64 GAME_OBJECT_MANAGER = 0x14C1790;
+        public const Int64 TIME_MANAGER = 0x14C1968;
