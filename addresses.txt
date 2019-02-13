@@ -1,1 +1,1 @@
-        public const Int64 GAME_OBJECT_MANAGER = 0x144BD60;
+        public const Int64 GAME_OBJECT_MANAGER = 0x14FBD68;
